@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 13d7a20767257ff4c966b4763e13055b
+timeCreated: 1490900700
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cathedral_LOD_02_001
+    100004: Cathedral_LOD_02_002
+    100006: Cathedral_LOD_02_003
+    100008: Cathedral_LOD_02_004
+    100010: Cathedral_LOD_02_005
+    100012: Cathedral_LOD_02_006
+    100014: Cathedral_LOD_02_007
+    100016: Cathedral_LOD_02_008
+    100018: Cathedral_LOD_02_009
+    100020: Cathedral_LOD_02_010
+    100022: Cathedral_LOD_02_011
+    100024: Cathedral_LOD_02_012
+    100026: Cathedral_LOD_02_013
+    100028: Cathedral_LOD_02_014
+    100030: Cathedral_LOD_02_015
+    400000: //RootNode
+    400002: Cathedral_LOD_02_001
+    400004: Cathedral_LOD_02_002
+    400006: Cathedral_LOD_02_003
+    400008: Cathedral_LOD_02_004
+    400010: Cathedral_LOD_02_005
+    400012: Cathedral_LOD_02_006
+    400014: Cathedral_LOD_02_007
+    400016: Cathedral_LOD_02_008
+    400018: Cathedral_LOD_02_009
+    400020: Cathedral_LOD_02_010
+    400022: Cathedral_LOD_02_011
+    400024: Cathedral_LOD_02_012
+    400026: Cathedral_LOD_02_013
+    400028: Cathedral_LOD_02_014
+    400030: Cathedral_LOD_02_015
+    2300000: Cathedral_LOD_02_001
+    2300002: Cathedral_LOD_02_002
+    2300004: Cathedral_LOD_02_003
+    2300006: Cathedral_LOD_02_004
+    2300008: Cathedral_LOD_02_005
+    2300010: Cathedral_LOD_02_006
+    2300012: Cathedral_LOD_02_007
+    2300014: Cathedral_LOD_02_008
+    2300016: Cathedral_LOD_02_009
+    2300018: Cathedral_LOD_02_010
+    2300020: Cathedral_LOD_02_011
+    2300022: Cathedral_LOD_02_012
+    2300024: Cathedral_LOD_02_013
+    2300026: Cathedral_LOD_02_014
+    2300028: Cathedral_LOD_02_015
+    3300000: Cathedral_LOD_02_001
+    3300002: Cathedral_LOD_02_002
+    3300004: Cathedral_LOD_02_003
+    3300006: Cathedral_LOD_02_004
+    3300008: Cathedral_LOD_02_005
+    3300010: Cathedral_LOD_02_006
+    3300012: Cathedral_LOD_02_007
+    3300014: Cathedral_LOD_02_008
+    3300016: Cathedral_LOD_02_009
+    3300018: Cathedral_LOD_02_010
+    3300020: Cathedral_LOD_02_011
+    3300022: Cathedral_LOD_02_012
+    3300024: Cathedral_LOD_02_013
+    3300026: Cathedral_LOD_02_014
+    3300028: Cathedral_LOD_02_015
+    4300000: Cathedral_LOD_02_001
+    4300002: Cathedral_LOD_02_002
+    4300004: Cathedral_LOD_02_003
+    4300006: Cathedral_LOD_02_004
+    4300008: Cathedral_LOD_02_005
+    4300010: Cathedral_LOD_02_006
+    4300012: Cathedral_LOD_02_007
+    4300014: Cathedral_LOD_02_008
+    4300016: Cathedral_LOD_02_009
+    4300018: Cathedral_LOD_02_010
+    4300020: Cathedral_LOD_02_011
+    4300022: Cathedral_LOD_02_012
+    4300024: Cathedral_LOD_02_013
+    4300026: Cathedral_LOD_02_014
+    4300028: Cathedral_LOD_02_015
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

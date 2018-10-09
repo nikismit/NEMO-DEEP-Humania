@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 96c6c2d0ee4373247ac6719e58d762f5
+timeCreated: 1488481695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cave1
+    100004: cave1_MeshPart0
+    100006: cave1_MeshPart1
+    100008: cave2
+    100010: cave3
+    100012: cave3_MeshPart0
+    100014: cave3_MeshPart1
+    100016: cave3_MeshPart2
+    100018: cave3_MeshPart3
+    100020: cave4 rough
+    100022: cave4 rough_MeshPart0
+    100024: cave4 rough_MeshPart1
+    100026: cave4 rough_MeshPart2
+    100028: cave4 rough_MeshPart3
+    100030: cave4 rough_MeshPart4
+    100032: cave4 rough_MeshPart5
+    100034: cave4 rough_MeshPart6
+    100036: cave4 smooth
+    100038: cavemaker
+    100040: cavemaker_MeshPart0
+    100042: cavemaker_MeshPart1
+    100044: cavemaker_MeshPart10
+    100046: cavemaker_MeshPart2
+    100048: cavemaker_MeshPart3
+    100050: cavemaker_MeshPart4
+    100052: cavemaker_MeshPart5
+    100054: cavemaker_MeshPart6
+    100056: cavemaker_MeshPart7
+    100058: cavemaker_MeshPart8
+    100060: cavemaker_MeshPart9
+    100062: Cube scale 1x1x1m
+    100064: ground
+    100066: Plane.001
+    400000: //RootNode
+    400002: cave1
+    400004: cave1_MeshPart0
+    400006: cave1_MeshPart1
+    400008: cave2
+    400010: cave3
+    400012: cave3_MeshPart0
+    400014: cave3_MeshPart1
+    400016: cave3_MeshPart2
+    400018: cave3_MeshPart3
+    400020: cave4 rough
+    400022: cave4 rough_MeshPart0
+    400024: cave4 rough_MeshPart1
+    400026: cave4 rough_MeshPart2
+    400028: cave4 rough_MeshPart3
+    400030: cave4 rough_MeshPart4
+    400032: cave4 rough_MeshPart5
+    400034: cave4 rough_MeshPart6
+    400036: cave4 smooth
+    400038: cavemaker
+    400040: cavemaker_MeshPart0
+    400042: cavemaker_MeshPart1
+    400044: cavemaker_MeshPart10
+    400046: cavemaker_MeshPart2
+    400048: cavemaker_MeshPart3
+    400050: cavemaker_MeshPart4
+    400052: cavemaker_MeshPart5
+    400054: cavemaker_MeshPart6
+    400056: cavemaker_MeshPart7
+    400058: cavemaker_MeshPart8
+    400060: cavemaker_MeshPart9
+    400062: Cube scale 1x1x1m
+    400064: ground
+    400066: Plane.001
+    2300000: cave1_MeshPart0
+    2300002: cave1_MeshPart1
+    2300004: cave2
+    2300006: cave3_MeshPart0
+    2300008: cave3_MeshPart1
+    2300010: cave3_MeshPart2
+    2300012: cave3_MeshPart3
+    2300014: cave4 rough_MeshPart0
+    2300016: cave4 rough_MeshPart1
+    2300018: cave4 rough_MeshPart2
+    2300020: cave4 rough_MeshPart3
+    2300022: cave4 rough_MeshPart4
+    2300024: cave4 rough_MeshPart5
+    2300026: cave4 rough_MeshPart6
+    2300028: cave4 smooth
+    2300030: cavemaker_MeshPart0
+    2300032: cavemaker_MeshPart1
+    2300034: cavemaker_MeshPart10
+    2300036: cavemaker_MeshPart2
+    2300038: cavemaker_MeshPart3
+    2300040: cavemaker_MeshPart4
+    2300042: cavemaker_MeshPart5
+    2300044: cavemaker_MeshPart6
+    2300046: cavemaker_MeshPart7
+    2300048: cavemaker_MeshPart8
+    2300050: cavemaker_MeshPart9
+    2300052: Cube scale 1x1x1m
+    2300054: ground
+    2300056: Plane.001
+    3300000: cave1_MeshPart0
+    3300002: cave1_MeshPart1
+    3300004: cave2
+    3300006: cave3_MeshPart0
+    3300008: cave3_MeshPart1
+    3300010: cave3_MeshPart2
+    3300012: cave3_MeshPart3
+    3300014: cave4 rough_MeshPart0
+    3300016: cave4 rough_MeshPart1
+    3300018: cave4 rough_MeshPart2
+    3300020: cave4 rough_MeshPart3
+    3300022: cave4 rough_MeshPart4
+    3300024: cave4 rough_MeshPart5
+    3300026: cave4 rough_MeshPart6
+    3300028: cave4 smooth
+    3300030: cavemaker_MeshPart0
+    3300032: cavemaker_MeshPart1
+    3300034: cavemaker_MeshPart10
+    3300036: cavemaker_MeshPart2
+    3300038: cavemaker_MeshPart3
+    3300040: cavemaker_MeshPart4
+    3300042: cavemaker_MeshPart5
+    3300044: cavemaker_MeshPart6
+    3300046: cavemaker_MeshPart7
+    3300048: cavemaker_MeshPart8
+    3300050: cavemaker_MeshPart9
+    3300052: Cube scale 1x1x1m
+    3300054: ground
+    3300056: Plane.001
+    4300000: Cube scale 1x1x1m
+    4300002: cave2
+    4300004: cave3_MeshPart0
+    4300006: cave3_MeshPart1
+    4300008: cave3_MeshPart2
+    4300010: cave3_MeshPart3
+    4300012: ground
+    4300014: cavemaker_MeshPart0
+    4300016: cavemaker_MeshPart1
+    4300018: cavemaker_MeshPart2
+    4300020: cavemaker_MeshPart3
+    4300022: cavemaker_MeshPart4
+    4300024: cavemaker_MeshPart5
+    4300026: cavemaker_MeshPart6
+    4300028: cavemaker_MeshPart7
+    4300030: cavemaker_MeshPart8
+    4300032: cavemaker_MeshPart9
+    4300034: cavemaker_MeshPart10
+    4300036: cave1_MeshPart0
+    4300038: cave1_MeshPart1
+    4300040: cave4 rough_MeshPart0
+    4300042: cave4 rough_MeshPart1
+    4300044: cave4 rough_MeshPart2
+    4300046: cave4 rough_MeshPart3
+    4300048: cave4 rough_MeshPart4
+    4300050: cave4 rough_MeshPart5
+    4300052: cave4 rough_MeshPart6
+    4300054: Plane.001
+    4300056: cave4 smooth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

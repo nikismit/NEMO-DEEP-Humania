@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 8c4e18a4bf35f6b48a170ba0fb0a8acc
+timeCreated: 1490274262
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0_PILLAR1
+    100002: 0_PILLAR13
+    100004: 0_PILLAR2
+    100006: 0_PILLAR4
+    100008: Cube
+    100010: Cylinder.002
+    100012: Cylinder.008
+    100014: ground.001
+    100016: HIVE INNER modifier.
+    100018: HIVE_CAVEWALLS rough
+    100020: HIVE_CAVEWALLS rough_MeshPart0
+    100022: HIVE_CAVEWALLS rough_MeshPart1
+    100024: HIVE_CAVEWALLS rough_MeshPart2
+    100026: HIVE_CAVEWALLS rough_MeshPart3
+    100028: HIVE_CAVEWALLS rough_MeshPart4
+    100030: HIVE_CAVEWALLS rough_MeshPart5
+    100032: HIVE_CAVEWALLS rough_MeshPart6
+    100034: HIVE_CAVEWALLS rough_MeshPart7
+    100036: HIVE_CAVEWALLS.decoimated
+    100038: HIVE_CAVEWALLS.decoimated_MeshPart0
+    100040: HIVE_CAVEWALLS.decoimated_MeshPart1
+    100042: HIVE_outer wall.001
+    100044: HIVE_outer wall.001_MeshPart0
+    100046: HIVE_outer wall.001_MeshPart1
+    100048: HIVE_outer wall.001_MeshPart2
+    100050: HIVE_outer wall.001_MeshPart3
+    100052: HIVE_outer wall.001_MeshPart4
+    100054: HIVE_outer wall.001_MeshPart5
+    100056: HIVE_outer wall.001_MeshPart6
+    100058: HIVEcave modifier
+    100060: Icosphere
+    100062: //RootNode
+    100064: Mball.002
+    100066: Mball.002_MeshPart0
+    100068: Mball.002_MeshPart1
+    100070: Mball.002_MeshPart2
+    100072: Mball.002_MeshPart3
+    100074: Mball.002_MeshPart4
+    100076: upper floor
+    400000: 0_PILLAR1
+    400002: 0_PILLAR13
+    400004: 0_PILLAR2
+    400006: 0_PILLAR4
+    400008: Cube
+    400010: Cylinder.002
+    400012: Cylinder.008
+    400014: ground.001
+    400016: HIVE INNER modifier.
+    400018: HIVE_CAVEWALLS rough
+    400020: HIVE_CAVEWALLS rough_MeshPart0
+    400022: HIVE_CAVEWALLS rough_MeshPart1
+    400024: HIVE_CAVEWALLS rough_MeshPart2
+    400026: HIVE_CAVEWALLS rough_MeshPart3
+    400028: HIVE_CAVEWALLS rough_MeshPart4
+    400030: HIVE_CAVEWALLS rough_MeshPart5
+    400032: HIVE_CAVEWALLS rough_MeshPart6
+    400034: HIVE_CAVEWALLS rough_MeshPart7
+    400036: HIVE_CAVEWALLS.decoimated
+    400038: HIVE_CAVEWALLS.decoimated_MeshPart0
+    400040: HIVE_CAVEWALLS.decoimated_MeshPart1
+    400042: HIVE_outer wall.001
+    400044: HIVE_outer wall.001_MeshPart0
+    400046: HIVE_outer wall.001_MeshPart1
+    400048: HIVE_outer wall.001_MeshPart2
+    400050: HIVE_outer wall.001_MeshPart3
+    400052: HIVE_outer wall.001_MeshPart4
+    400054: HIVE_outer wall.001_MeshPart5
+    400056: HIVE_outer wall.001_MeshPart6
+    400058: HIVEcave modifier
+    400060: Icosphere
+    400062: //RootNode
+    400064: Mball.002
+    400066: Mball.002_MeshPart0
+    400068: Mball.002_MeshPart1
+    400070: Mball.002_MeshPart2
+    400072: Mball.002_MeshPart3
+    400074: Mball.002_MeshPart4
+    400076: upper floor
+    2300000: 0_PILLAR1
+    2300002: 0_PILLAR13
+    2300004: 0_PILLAR2
+    2300006: 0_PILLAR4
+    2300008: Cube
+    2300010: Cylinder.002
+    2300012: Cylinder.008
+    2300014: ground.001
+    2300016: HIVE INNER modifier.
+    2300018: HIVE_CAVEWALLS rough_MeshPart0
+    2300020: HIVE_CAVEWALLS rough_MeshPart1
+    2300022: HIVE_CAVEWALLS rough_MeshPart2
+    2300024: HIVE_CAVEWALLS rough_MeshPart3
+    2300026: HIVE_CAVEWALLS rough_MeshPart4
+    2300028: HIVE_CAVEWALLS rough_MeshPart5
+    2300030: HIVE_CAVEWALLS rough_MeshPart6
+    2300032: HIVE_CAVEWALLS rough_MeshPart7
+    2300034: HIVE_CAVEWALLS.decoimated_MeshPart0
+    2300036: HIVE_CAVEWALLS.decoimated_MeshPart1
+    2300038: HIVE_outer wall.001_MeshPart0
+    2300040: HIVE_outer wall.001_MeshPart1
+    2300042: HIVE_outer wall.001_MeshPart2
+    2300044: HIVE_outer wall.001_MeshPart3
+    2300046: HIVE_outer wall.001_MeshPart4
+    2300048: HIVE_outer wall.001_MeshPart5
+    2300050: HIVE_outer wall.001_MeshPart6
+    2300052: HIVEcave modifier
+    2300054: Icosphere
+    2300056: Mball.002_MeshPart0
+    2300058: Mball.002_MeshPart1
+    2300060: Mball.002_MeshPart2
+    2300062: Mball.002_MeshPart3
+    2300064: Mball.002_MeshPart4
+    2300066: upper floor
+    3300000: 0_PILLAR1
+    3300002: 0_PILLAR13
+    3300004: 0_PILLAR2
+    3300006: 0_PILLAR4
+    3300008: Cube
+    3300010: Cylinder.002
+    3300012: Cylinder.008
+    3300014: ground.001
+    3300016: HIVE INNER modifier.
+    3300018: HIVE_CAVEWALLS rough_MeshPart0
+    3300020: HIVE_CAVEWALLS rough_MeshPart1
+    3300022: HIVE_CAVEWALLS rough_MeshPart2
+    3300024: HIVE_CAVEWALLS rough_MeshPart3
+    3300026: HIVE_CAVEWALLS rough_MeshPart4
+    3300028: HIVE_CAVEWALLS rough_MeshPart5
+    3300030: HIVE_CAVEWALLS rough_MeshPart6
+    3300032: HIVE_CAVEWALLS rough_MeshPart7
+    3300034: HIVE_CAVEWALLS.decoimated_MeshPart0
+    3300036: HIVE_CAVEWALLS.decoimated_MeshPart1
+    3300038: HIVE_outer wall.001_MeshPart0
+    3300040: HIVE_outer wall.001_MeshPart1
+    3300042: HIVE_outer wall.001_MeshPart2
+    3300044: HIVE_outer wall.001_MeshPart3
+    3300046: HIVE_outer wall.001_MeshPart4
+    3300048: HIVE_outer wall.001_MeshPart5
+    3300050: HIVE_outer wall.001_MeshPart6
+    3300052: HIVEcave modifier
+    3300054: Icosphere
+    3300056: Mball.002_MeshPart0
+    3300058: Mball.002_MeshPart1
+    3300060: Mball.002_MeshPart2
+    3300062: Mball.002_MeshPart3
+    3300064: Mball.002_MeshPart4
+    3300066: upper floor
+    4300000: 0_PILLAR1
+    4300002: 0_PILLAR13
+    4300004: 0_PILLAR2
+    4300006: 0_PILLAR4
+    4300008: Cube
+    4300010: Cylinder.002
+    4300012: Cylinder.008
+    4300014: ground.001
+    4300016: HIVE INNER modifier.
+    4300018: HIVE_CAVEWALLS rough_MeshPart0
+    4300020: HIVE_CAVEWALLS rough_MeshPart1
+    4300022: HIVE_CAVEWALLS rough_MeshPart2
+    4300024: HIVE_CAVEWALLS rough_MeshPart3
+    4300026: HIVE_CAVEWALLS rough_MeshPart4
+    4300028: HIVE_CAVEWALLS rough_MeshPart5
+    4300030: HIVE_CAVEWALLS rough_MeshPart6
+    4300032: HIVE_CAVEWALLS rough_MeshPart7
+    4300034: HIVE_CAVEWALLS.decoimated_MeshPart0
+    4300036: HIVE_CAVEWALLS.decoimated_MeshPart1
+    4300038: HIVE_outer wall.001_MeshPart0
+    4300040: HIVE_outer wall.001_MeshPart1
+    4300042: HIVE_outer wall.001_MeshPart2
+    4300044: HIVE_outer wall.001_MeshPart3
+    4300046: HIVE_outer wall.001_MeshPart4
+    4300048: HIVE_outer wall.001_MeshPart5
+    4300050: HIVE_outer wall.001_MeshPart6
+    4300052: HIVEcave modifier
+    4300054: Icosphere
+    4300056: Mball.002_MeshPart0
+    4300058: Mball.002_MeshPart1
+    4300060: Mball.002_MeshPart2
+    4300062: Mball.002_MeshPart3
+    4300064: Mball.002_MeshPart4
+    4300066: upper floor
+    6400000: 0_PILLAR1
+    6400002: 0_PILLAR13
+    6400004: 0_PILLAR2
+    6400006: 0_PILLAR4
+    6400008: Cube
+    6400010: Cylinder.002
+    6400012: Cylinder.008
+    6400014: ground.001
+    6400016: HIVE INNER modifier.
+    6400018: HIVE_CAVEWALLS rough_MeshPart0
+    6400020: HIVE_CAVEWALLS rough_MeshPart1
+    6400022: HIVE_CAVEWALLS rough_MeshPart2
+    6400024: HIVE_CAVEWALLS rough_MeshPart3
+    6400026: HIVE_CAVEWALLS rough_MeshPart4
+    6400028: HIVE_CAVEWALLS rough_MeshPart5
+    6400030: HIVE_CAVEWALLS rough_MeshPart6
+    6400032: HIVE_CAVEWALLS rough_MeshPart7
+    6400034: HIVE_CAVEWALLS.decoimated_MeshPart0
+    6400036: HIVE_CAVEWALLS.decoimated_MeshPart1
+    6400038: HIVE_outer wall.001_MeshPart0
+    6400040: HIVE_outer wall.001_MeshPart1
+    6400042: HIVE_outer wall.001_MeshPart2
+    6400044: HIVE_outer wall.001_MeshPart3
+    6400046: HIVE_outer wall.001_MeshPart4
+    6400048: HIVE_outer wall.001_MeshPart5
+    6400050: HIVE_outer wall.001_MeshPart6
+    6400052: HIVEcave modifier
+    6400054: Icosphere
+    6400056: Mball.002_MeshPart0
+    6400058: Mball.002_MeshPart1
+    6400060: Mball.002_MeshPart2
+    6400062: Mball.002_MeshPart3
+    6400064: Mball.002_MeshPart4
+    6400066: upper floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

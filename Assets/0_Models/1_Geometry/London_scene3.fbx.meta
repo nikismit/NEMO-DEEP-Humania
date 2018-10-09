@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: eca21a419b6fb23448acfe679efef72f
+timeCreated: 1490776935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATHEDRAL GROUND
+    100002: CATHEDRAL1
+    100004: CATHEDRAL1_MeshPart0
+    100006: CATHEDRAL1_MeshPart1
+    100008: CATHEDRAL1_MeshPart2
+    100010: CATHEDRAL1_MeshPart3
+    100012: CATHEDRAL1_MeshPart4
+    100014: CATHEDRAL1_MeshPart5
+    100016: CATHEDRAL1_MeshPart6
+    100018: CATHEDRAL1_MeshPart7
+    100020: CATHEDRAL1_MeshPart8
+    100022: CATHEDRAL2
+    100024: CATHEDRAL2_MeshPart0
+    100026: CATHEDRAL2_MeshPart1
+    100028: CATHEDRAL2_MeshPart2
+    100030: CATHEDRAL2_MeshPart3
+    100032: CATHEDRAL2_MeshPart4
+    100034: CATHEDRAL2_MeshPart5
+    100036: CATHEDRAL2_MeshPart6
+    100038: CATHEDRAL2_MeshPart7
+    100040: CATHEDRAL2_MeshPart8
+    100042: ENTRANCE CAVE GROUND
+    100044: eNTRANCE CAVE LEFT
+    100046: eNTRANCE CAVE LEFT_MeshPart0
+    100048: eNTRANCE CAVE LEFT_MeshPart1
+    100050: eNTRANCE CAVE LEFT_MeshPart2
+    100052: eNTRANCE CAVE LEFT_MeshPart3
+    100054: eNTRANCE CAVE LEFT_MeshPart4
+    100056: eNTRANCE CAVE LEFT_MeshPart5
+    100058: eNTRANCECAVE RIGHT
+    100060: eNTRANCECAVE RIGHT_MeshPart0
+    100062: eNTRANCECAVE RIGHT_MeshPart1
+    100064: eNTRANCECAVE RIGHT_MeshPart2
+    100066: eNTRANCECAVE RIGHT_MeshPart3
+    100068: eNTRANCECAVE RIGHT_MeshPart4
+    100070: eNTRANCECAVE RIGHT_MeshPart5
+    100072: HILL WALL LEFT
+    100074: HILL WALL RIGHT
+    100076: Hive INNER Decimated
+    100078: Hive INNER Decimated_MeshPart0
+    100080: Hive INNER Decimated_MeshPart1
+    100082: Hive INNER Decimated_MeshPart2
+    100084: Hive INNER smooth
+    100086: Hive INNER smooth_MeshPart0
+    100088: Hive INNER smooth_MeshPart1
+    100090: Hive INNER smooth_MeshPart2
+    100092: Hivewall Caustic
+    100094: Hivewall Caustic_MeshPart0
+    100096: Hivewall Caustic_MeshPart1
+    100098: Hivewall Caustic_MeshPart2
+    100100: Hivewall Caustic_MeshPart3
+    100102: //RootNode
+    100104: Plain around Ravine exit
+    100106: Plane.005
+    100108: RAVINE
+    100110: Ravine exit ground
+    100112: RAVINE_MeshPart0
+    100114: RAVINE_MeshPart1
+    100116: RAVINE_MeshPart2
+    100118: RAVINE_MeshPart3
+    400000: CATHEDRAL GROUND
+    400002: CATHEDRAL1
+    400004: CATHEDRAL1_MeshPart0
+    400006: CATHEDRAL1_MeshPart1
+    400008: CATHEDRAL1_MeshPart2
+    400010: CATHEDRAL1_MeshPart3
+    400012: CATHEDRAL1_MeshPart4
+    400014: CATHEDRAL1_MeshPart5
+    400016: CATHEDRAL1_MeshPart6
+    400018: CATHEDRAL1_MeshPart7
+    400020: CATHEDRAL1_MeshPart8
+    400022: CATHEDRAL2
+    400024: CATHEDRAL2_MeshPart0
+    400026: CATHEDRAL2_MeshPart1
+    400028: CATHEDRAL2_MeshPart2
+    400030: CATHEDRAL2_MeshPart3
+    400032: CATHEDRAL2_MeshPart4
+    400034: CATHEDRAL2_MeshPart5
+    400036: CATHEDRAL2_MeshPart6
+    400038: CATHEDRAL2_MeshPart7
+    400040: CATHEDRAL2_MeshPart8
+    400042: ENTRANCE CAVE GROUND
+    400044: eNTRANCE CAVE LEFT
+    400046: eNTRANCE CAVE LEFT_MeshPart0
+    400048: eNTRANCE CAVE LEFT_MeshPart1
+    400050: eNTRANCE CAVE LEFT_MeshPart2
+    400052: eNTRANCE CAVE LEFT_MeshPart3
+    400054: eNTRANCE CAVE LEFT_MeshPart4
+    400056: eNTRANCE CAVE LEFT_MeshPart5
+    400058: eNTRANCECAVE RIGHT
+    400060: eNTRANCECAVE RIGHT_MeshPart0
+    400062: eNTRANCECAVE RIGHT_MeshPart1
+    400064: eNTRANCECAVE RIGHT_MeshPart2
+    400066: eNTRANCECAVE RIGHT_MeshPart3
+    400068: eNTRANCECAVE RIGHT_MeshPart4
+    400070: eNTRANCECAVE RIGHT_MeshPart5
+    400072: HILL WALL LEFT
+    400074: HILL WALL RIGHT
+    400076: Hive INNER Decimated
+    400078: Hive INNER Decimated_MeshPart0
+    400080: Hive INNER Decimated_MeshPart1
+    400082: Hive INNER Decimated_MeshPart2
+    400084: Hive INNER smooth
+    400086: Hive INNER smooth_MeshPart0
+    400088: Hive INNER smooth_MeshPart1
+    400090: Hive INNER smooth_MeshPart2
+    400092: Hivewall Caustic
+    400094: Hivewall Caustic_MeshPart0
+    400096: Hivewall Caustic_MeshPart1
+    400098: Hivewall Caustic_MeshPart2
+    400100: Hivewall Caustic_MeshPart3
+    400102: //RootNode
+    400104: Plain around Ravine exit
+    400106: Plane.005
+    400108: RAVINE
+    400110: Ravine exit ground
+    400112: RAVINE_MeshPart0
+    400114: RAVINE_MeshPart1
+    400116: RAVINE_MeshPart2
+    400118: RAVINE_MeshPart3
+    2300000: CATHEDRAL GROUND
+    2300002: CATHEDRAL1_MeshPart0
+    2300004: CATHEDRAL1_MeshPart1
+    2300006: CATHEDRAL1_MeshPart2
+    2300008: CATHEDRAL1_MeshPart3
+    2300010: CATHEDRAL1_MeshPart4
+    2300012: CATHEDRAL1_MeshPart5
+    2300014: CATHEDRAL1_MeshPart6
+    2300016: CATHEDRAL1_MeshPart7
+    2300018: CATHEDRAL1_MeshPart8
+    2300020: CATHEDRAL2_MeshPart0
+    2300022: CATHEDRAL2_MeshPart1
+    2300024: CATHEDRAL2_MeshPart2
+    2300026: CATHEDRAL2_MeshPart3
+    2300028: CATHEDRAL2_MeshPart4
+    2300030: CATHEDRAL2_MeshPart5
+    2300032: CATHEDRAL2_MeshPart6
+    2300034: CATHEDRAL2_MeshPart7
+    2300036: CATHEDRAL2_MeshPart8
+    2300038: ENTRANCE CAVE GROUND
+    2300040: eNTRANCE CAVE LEFT_MeshPart0
+    2300042: eNTRANCE CAVE LEFT_MeshPart1
+    2300044: eNTRANCE CAVE LEFT_MeshPart2
+    2300046: eNTRANCE CAVE LEFT_MeshPart3
+    2300048: eNTRANCE CAVE LEFT_MeshPart4
+    2300050: eNTRANCE CAVE LEFT_MeshPart5
+    2300052: eNTRANCECAVE RIGHT_MeshPart0
+    2300054: eNTRANCECAVE RIGHT_MeshPart1
+    2300056: eNTRANCECAVE RIGHT_MeshPart2
+    2300058: eNTRANCECAVE RIGHT_MeshPart3
+    2300060: eNTRANCECAVE RIGHT_MeshPart4
+    2300062: eNTRANCECAVE RIGHT_MeshPart5
+    2300064: HILL WALL LEFT
+    2300066: HILL WALL RIGHT
+    2300068: Hive INNER Decimated_MeshPart0
+    2300070: Hive INNER Decimated_MeshPart1
+    2300072: Hive INNER Decimated_MeshPart2
+    2300074: Hive INNER smooth_MeshPart0
+    2300076: Hive INNER smooth_MeshPart1
+    2300078: Hive INNER smooth_MeshPart2
+    2300080: Hivewall Caustic_MeshPart0
+    2300082: Hivewall Caustic_MeshPart1
+    2300084: Hivewall Caustic_MeshPart2
+    2300086: Hivewall Caustic_MeshPart3
+    2300088: Plain around Ravine exit
+    2300090: Plane.005
+    2300092: Ravine exit ground
+    2300094: RAVINE_MeshPart0
+    2300096: RAVINE_MeshPart1
+    2300098: RAVINE_MeshPart2
+    2300100: RAVINE_MeshPart3
+    3300000: CATHEDRAL GROUND
+    3300002: CATHEDRAL1_MeshPart0
+    3300004: CATHEDRAL1_MeshPart1
+    3300006: CATHEDRAL1_MeshPart2
+    3300008: CATHEDRAL1_MeshPart3
+    3300010: CATHEDRAL1_MeshPart4
+    3300012: CATHEDRAL1_MeshPart5
+    3300014: CATHEDRAL1_MeshPart6
+    3300016: CATHEDRAL1_MeshPart7
+    3300018: CATHEDRAL1_MeshPart8
+    3300020: CATHEDRAL2_MeshPart0
+    3300022: CATHEDRAL2_MeshPart1
+    3300024: CATHEDRAL2_MeshPart2
+    3300026: CATHEDRAL2_MeshPart3
+    3300028: CATHEDRAL2_MeshPart4
+    3300030: CATHEDRAL2_MeshPart5
+    3300032: CATHEDRAL2_MeshPart6
+    3300034: CATHEDRAL2_MeshPart7
+    3300036: CATHEDRAL2_MeshPart8
+    3300038: ENTRANCE CAVE GROUND
+    3300040: eNTRANCE CAVE LEFT_MeshPart0
+    3300042: eNTRANCE CAVE LEFT_MeshPart1
+    3300044: eNTRANCE CAVE LEFT_MeshPart2
+    3300046: eNTRANCE CAVE LEFT_MeshPart3
+    3300048: eNTRANCE CAVE LEFT_MeshPart4
+    3300050: eNTRANCE CAVE LEFT_MeshPart5
+    3300052: eNTRANCECAVE RIGHT_MeshPart0
+    3300054: eNTRANCECAVE RIGHT_MeshPart1
+    3300056: eNTRANCECAVE RIGHT_MeshPart2
+    3300058: eNTRANCECAVE RIGHT_MeshPart3
+    3300060: eNTRANCECAVE RIGHT_MeshPart4
+    3300062: eNTRANCECAVE RIGHT_MeshPart5
+    3300064: HILL WALL LEFT
+    3300066: HILL WALL RIGHT
+    3300068: Hive INNER Decimated_MeshPart0
+    3300070: Hive INNER Decimated_MeshPart1
+    3300072: Hive INNER Decimated_MeshPart2
+    3300074: Hive INNER smooth_MeshPart0
+    3300076: Hive INNER smooth_MeshPart1
+    3300078: Hive INNER smooth_MeshPart2
+    3300080: Hivewall Caustic_MeshPart0
+    3300082: Hivewall Caustic_MeshPart1
+    3300084: Hivewall Caustic_MeshPart2
+    3300086: Hivewall Caustic_MeshPart3
+    3300088: Plain around Ravine exit
+    3300090: Plane.005
+    3300092: Ravine exit ground
+    3300094: RAVINE_MeshPart0
+    3300096: RAVINE_MeshPart1
+    3300098: RAVINE_MeshPart2
+    3300100: RAVINE_MeshPart3
+    4300000: CATHEDRAL1_MeshPart0
+    4300002: CATHEDRAL1_MeshPart1
+    4300004: CATHEDRAL1_MeshPart2
+    4300006: CATHEDRAL1_MeshPart3
+    4300008: CATHEDRAL1_MeshPart4
+    4300010: CATHEDRAL1_MeshPart5
+    4300012: CATHEDRAL1_MeshPart6
+    4300014: CATHEDRAL1_MeshPart7
+    4300016: CATHEDRAL1_MeshPart8
+    4300018: HILL WALL RIGHT
+    4300020: Hive INNER Decimated_MeshPart0
+    4300022: Hive INNER Decimated_MeshPart1
+    4300024: Hive INNER Decimated_MeshPart2
+    4300026: Hive INNER smooth_MeshPart0
+    4300028: Hive INNER smooth_MeshPart1
+    4300030: Hive INNER smooth_MeshPart2
+    4300032: CATHEDRAL GROUND
+    4300034: Plain around Ravine exit
+    4300036: eNTRANCE CAVE LEFT_MeshPart0
+    4300038: eNTRANCE CAVE LEFT_MeshPart1
+    4300040: eNTRANCE CAVE LEFT_MeshPart2
+    4300042: eNTRANCE CAVE LEFT_MeshPart3
+    4300044: eNTRANCE CAVE LEFT_MeshPart4
+    4300046: eNTRANCE CAVE LEFT_MeshPart5
+    4300048: ENTRANCE CAVE GROUND
+    4300050: eNTRANCECAVE RIGHT_MeshPart0
+    4300052: eNTRANCECAVE RIGHT_MeshPart1
+    4300054: eNTRANCECAVE RIGHT_MeshPart2
+    4300056: eNTRANCECAVE RIGHT_MeshPart3
+    4300058: eNTRANCECAVE RIGHT_MeshPart4
+    4300060: eNTRANCECAVE RIGHT_MeshPart5
+    4300062: Plane.005
+    4300064: Ravine exit ground
+    4300066: RAVINE_MeshPart0
+    4300068: RAVINE_MeshPart1
+    4300070: RAVINE_MeshPart2
+    4300072: RAVINE_MeshPart3
+    4300074: Hivewall Caustic_MeshPart0
+    4300076: Hivewall Caustic_MeshPart1
+    4300078: Hivewall Caustic_MeshPart2
+    4300080: Hivewall Caustic_MeshPart3
+    4300082: HILL WALL LEFT
+    4300084: CATHEDRAL2_MeshPart0
+    4300086: CATHEDRAL2_MeshPart1
+    4300088: CATHEDRAL2_MeshPart2
+    4300090: CATHEDRAL2_MeshPart3
+    4300092: CATHEDRAL2_MeshPart4
+    4300094: CATHEDRAL2_MeshPart5
+    4300096: CATHEDRAL2_MeshPart6
+    4300098: CATHEDRAL2_MeshPart7
+    4300100: CATHEDRAL2_MeshPart8
+    6400000: CATHEDRAL GROUND
+    6400002: CATHEDRAL1_MeshPart0
+    6400004: CATHEDRAL1_MeshPart1
+    6400006: CATHEDRAL1_MeshPart2
+    6400008: CATHEDRAL1_MeshPart3
+    6400010: CATHEDRAL1_MeshPart4
+    6400012: CATHEDRAL1_MeshPart5
+    6400014: CATHEDRAL1_MeshPart6
+    6400016: CATHEDRAL1_MeshPart7
+    6400018: CATHEDRAL1_MeshPart8
+    6400020: CATHEDRAL2_MeshPart0
+    6400022: CATHEDRAL2_MeshPart1
+    6400024: CATHEDRAL2_MeshPart2
+    6400026: CATHEDRAL2_MeshPart3
+    6400028: CATHEDRAL2_MeshPart4
+    6400030: CATHEDRAL2_MeshPart5
+    6400032: CATHEDRAL2_MeshPart6
+    6400034: CATHEDRAL2_MeshPart7
+    6400036: CATHEDRAL2_MeshPart8
+    6400038: ENTRANCE CAVE GROUND
+    6400040: eNTRANCE CAVE LEFT_MeshPart0
+    6400042: eNTRANCE CAVE LEFT_MeshPart1
+    6400044: eNTRANCE CAVE LEFT_MeshPart2
+    6400046: eNTRANCE CAVE LEFT_MeshPart3
+    6400048: eNTRANCE CAVE LEFT_MeshPart4
+    6400050: eNTRANCE CAVE LEFT_MeshPart5
+    6400052: eNTRANCECAVE RIGHT_MeshPart0
+    6400054: eNTRANCECAVE RIGHT_MeshPart1
+    6400056: eNTRANCECAVE RIGHT_MeshPart2
+    6400058: eNTRANCECAVE RIGHT_MeshPart3
+    6400060: eNTRANCECAVE RIGHT_MeshPart4
+    6400062: eNTRANCECAVE RIGHT_MeshPart5
+    6400064: HILL WALL LEFT
+    6400066: HILL WALL RIGHT
+    6400068: Hive INNER Decimated_MeshPart0
+    6400070: Hive INNER Decimated_MeshPart1
+    6400072: Hive INNER Decimated_MeshPart2
+    6400074: Hive INNER smooth_MeshPart0
+    6400076: Hive INNER smooth_MeshPart1
+    6400078: Hive INNER smooth_MeshPart2
+    6400080: Hivewall Caustic_MeshPart0
+    6400082: Hivewall Caustic_MeshPart1
+    6400084: Hivewall Caustic_MeshPart2
+    6400086: Hivewall Caustic_MeshPart3
+    6400088: Plain around Ravine exit
+    6400090: Plane.005
+    6400092: Ravine exit ground
+    6400094: RAVINE_MeshPart0
+    6400096: RAVINE_MeshPart1
+    6400098: RAVINE_MeshPart2
+    6400100: RAVINE_MeshPart3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 3ced4321585ffd245bac3ef9944b5915
+timeCreated: 1459847414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CLIFF ISLAND.023
+    100002: CLIFF ISLAND.024
+    100004: CLIFF ISLAND.025
+    100006: CLIFF ISLAND.026
+    100008: CLIFF ISLAND.027
+    100010: CLIFF ISLAND.028
+    100012: CLIFF ISLAND.029
+    100014: CLIFF ISLAND.030
+    100016: CLIFF ISLAND.031
+    100018: CLIFF ISLAND.032
+    100020: CLIFF ISLAND.033
+    100022: CLIFF ISLAND.034
+    100024: CLIFF ISLAND.035
+    100026: CLIFF ISLAND.036
+    100028: CLIFF ISLAND.037
+    100030: CLIFF ISLAND.038
+    100032: CLIFF ISLAND.039
+    100034: CLIFF ISLAND.040
+    100036: CLIFF ISLAND.041
+    100038: CLIFF ISLAND.042
+    100040: CLIFF ISLAND.043
+    100042: CLIFF ISLAND.044
+    100044: CLIFF ISLAND.045
+    100046: //RootNode
+    400000: CLIFF ISLAND.023
+    400002: CLIFF ISLAND.024
+    400004: CLIFF ISLAND.025
+    400006: CLIFF ISLAND.026
+    400008: CLIFF ISLAND.027
+    400010: CLIFF ISLAND.028
+    400012: CLIFF ISLAND.029
+    400014: CLIFF ISLAND.030
+    400016: CLIFF ISLAND.031
+    400018: CLIFF ISLAND.032
+    400020: CLIFF ISLAND.033
+    400022: CLIFF ISLAND.034
+    400024: CLIFF ISLAND.035
+    400026: CLIFF ISLAND.036
+    400028: CLIFF ISLAND.037
+    400030: CLIFF ISLAND.038
+    400032: CLIFF ISLAND.039
+    400034: CLIFF ISLAND.040
+    400036: CLIFF ISLAND.041
+    400038: CLIFF ISLAND.042
+    400040: CLIFF ISLAND.043
+    400042: CLIFF ISLAND.044
+    400044: CLIFF ISLAND.045
+    400046: //RootNode
+    2300000: CLIFF ISLAND.023
+    2300002: CLIFF ISLAND.024
+    2300004: CLIFF ISLAND.025
+    2300006: CLIFF ISLAND.026
+    2300008: CLIFF ISLAND.027
+    2300010: CLIFF ISLAND.028
+    2300012: CLIFF ISLAND.029
+    2300014: CLIFF ISLAND.030
+    2300016: CLIFF ISLAND.031
+    2300018: CLIFF ISLAND.032
+    2300020: CLIFF ISLAND.033
+    2300022: CLIFF ISLAND.034
+    2300024: CLIFF ISLAND.035
+    2300026: CLIFF ISLAND.036
+    2300028: CLIFF ISLAND.037
+    2300030: CLIFF ISLAND.038
+    2300032: CLIFF ISLAND.039
+    2300034: CLIFF ISLAND.040
+    2300036: CLIFF ISLAND.041
+    2300038: CLIFF ISLAND.042
+    2300040: CLIFF ISLAND.043
+    2300042: CLIFF ISLAND.044
+    2300044: CLIFF ISLAND.045
+    3300000: CLIFF ISLAND.023
+    3300002: CLIFF ISLAND.024
+    3300004: CLIFF ISLAND.025
+    3300006: CLIFF ISLAND.026
+    3300008: CLIFF ISLAND.027
+    3300010: CLIFF ISLAND.028
+    3300012: CLIFF ISLAND.029
+    3300014: CLIFF ISLAND.030
+    3300016: CLIFF ISLAND.031
+    3300018: CLIFF ISLAND.032
+    3300020: CLIFF ISLAND.033
+    3300022: CLIFF ISLAND.034
+    3300024: CLIFF ISLAND.035
+    3300026: CLIFF ISLAND.036
+    3300028: CLIFF ISLAND.037
+    3300030: CLIFF ISLAND.038
+    3300032: CLIFF ISLAND.039
+    3300034: CLIFF ISLAND.040
+    3300036: CLIFF ISLAND.041
+    3300038: CLIFF ISLAND.042
+    3300040: CLIFF ISLAND.043
+    3300042: CLIFF ISLAND.044
+    3300044: CLIFF ISLAND.045
+    4300000: CLIFF ISLAND.023
+    4300002: CLIFF ISLAND.024
+    4300004: CLIFF ISLAND.025
+    4300006: CLIFF ISLAND.026
+    4300008: CLIFF ISLAND.027
+    4300010: CLIFF ISLAND.028
+    4300012: CLIFF ISLAND.029
+    4300014: CLIFF ISLAND.030
+    4300016: CLIFF ISLAND.031
+    4300018: CLIFF ISLAND.032
+    4300020: CLIFF ISLAND.033
+    4300022: CLIFF ISLAND.034
+    4300024: CLIFF ISLAND.035
+    4300026: CLIFF ISLAND.036
+    4300028: CLIFF ISLAND.037
+    4300030: CLIFF ISLAND.038
+    4300032: CLIFF ISLAND.039
+    4300034: CLIFF ISLAND.040
+    4300036: CLIFF ISLAND.041
+    4300038: CLIFF ISLAND.042
+    4300040: CLIFF ISLAND.043
+    4300042: CLIFF ISLAND.044
+    4300044: CLIFF ISLAND.045
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: ae9acf65e09ce1044843b57fb5d98fe0
+timeCreated: 1459847416
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BIG ARC
+    100002: //RootNode
+    100004: BIG ARC.001
+    100006: BIG ARC.002
+    100008: BIG ARC.003
+    100010: BIG ARC.004
+    100012: BIG ARC.005
+    100014: BIG ARC.006
+    100016: BIG ARC.007
+    100018: BIG ARC.008
+    100020: BIG ARC.009
+    100022: BIG ARC.010
+    100024: BIG ARC.011
+    100026: BIG ARC.012
+    100028: BIG ARC.013
+    100030: BIG ARC.014
+    100032: BIG ARC.015
+    100034: BIG ARC.016
+    100036: BIG ARC.017
+    100038: BIG ARC.018
+    100040: BIG ARC.019
+    100042: BIG ARC.020
+    100044: BIG ARC.021
+    100046: BIG ARC.022
+    100048: BIG ARC.023
+    100050: BIG ARC.024
+    100052: BIG ARC.025
+    100054: BIG ARC.026
+    100056: BIG ARC.027
+    100058: BIG ARC.028
+    100060: BIG ARC.029
+    100062: BIG ARC.030
+    100064: BIG ARC.031
+    100066: BIG ARC.032
+    100068: BIG ARC.033
+    100070: Cylinder.016
+    100072: Cylinder.018
+    400000: BIG ARC
+    400002: //RootNode
+    400004: BIG ARC.001
+    400006: BIG ARC.002
+    400008: BIG ARC.003
+    400010: BIG ARC.004
+    400012: BIG ARC.005
+    400014: BIG ARC.006
+    400016: BIG ARC.007
+    400018: BIG ARC.008
+    400020: BIG ARC.009
+    400022: BIG ARC.010
+    400024: BIG ARC.011
+    400026: BIG ARC.012
+    400028: BIG ARC.013
+    400030: BIG ARC.014
+    400032: BIG ARC.015
+    400034: BIG ARC.016
+    400036: BIG ARC.017
+    400038: BIG ARC.018
+    400040: BIG ARC.019
+    400042: BIG ARC.020
+    400044: BIG ARC.021
+    400046: BIG ARC.022
+    400048: BIG ARC.023
+    400050: BIG ARC.024
+    400052: BIG ARC.025
+    400054: BIG ARC.026
+    400056: BIG ARC.027
+    400058: BIG ARC.028
+    400060: BIG ARC.029
+    400062: BIG ARC.030
+    400064: BIG ARC.031
+    400066: BIG ARC.032
+    400068: BIG ARC.033
+    400070: Cylinder.016
+    400072: Cylinder.018
+    2300000: BIG ARC
+    2300002: BIG ARC.001
+    2300004: BIG ARC.002
+    2300006: BIG ARC.003
+    2300008: BIG ARC.004
+    2300010: BIG ARC.005
+    2300012: BIG ARC.006
+    2300014: BIG ARC.007
+    2300016: BIG ARC.008
+    2300018: BIG ARC.009
+    2300020: BIG ARC.010
+    2300022: BIG ARC.011
+    2300024: BIG ARC.012
+    2300026: BIG ARC.013
+    2300028: BIG ARC.014
+    2300030: BIG ARC.015
+    2300032: BIG ARC.016
+    2300034: BIG ARC.017
+    2300036: BIG ARC.018
+    2300038: BIG ARC.019
+    2300040: BIG ARC.020
+    2300042: BIG ARC.021
+    2300044: BIG ARC.022
+    2300046: BIG ARC.023
+    2300048: BIG ARC.024
+    2300050: BIG ARC.025
+    2300052: BIG ARC.026
+    2300054: BIG ARC.027
+    2300056: BIG ARC.028
+    2300058: BIG ARC.029
+    2300060: BIG ARC.030
+    2300062: BIG ARC.031
+    2300064: BIG ARC.032
+    2300066: BIG ARC.033
+    2300068: Cylinder.016
+    2300070: Cylinder.018
+    3300000: BIG ARC
+    3300002: BIG ARC.001
+    3300004: BIG ARC.002
+    3300006: BIG ARC.003
+    3300008: BIG ARC.004
+    3300010: BIG ARC.005
+    3300012: BIG ARC.006
+    3300014: BIG ARC.007
+    3300016: BIG ARC.008
+    3300018: BIG ARC.009
+    3300020: BIG ARC.010
+    3300022: BIG ARC.011
+    3300024: BIG ARC.012
+    3300026: BIG ARC.013
+    3300028: BIG ARC.014
+    3300030: BIG ARC.015
+    3300032: BIG ARC.016
+    3300034: BIG ARC.017
+    3300036: BIG ARC.018
+    3300038: BIG ARC.019
+    3300040: BIG ARC.020
+    3300042: BIG ARC.021
+    3300044: BIG ARC.022
+    3300046: BIG ARC.023
+    3300048: BIG ARC.024
+    3300050: BIG ARC.025
+    3300052: BIG ARC.026
+    3300054: BIG ARC.027
+    3300056: BIG ARC.028
+    3300058: BIG ARC.029
+    3300060: BIG ARC.030
+    3300062: BIG ARC.031
+    3300064: BIG ARC.032
+    3300066: BIG ARC.033
+    3300068: Cylinder.016
+    3300070: Cylinder.018
+    4300000: BIG ARC
+    4300002: BIG ARC.001
+    4300004: BIG ARC.002
+    4300006: BIG ARC.003
+    4300008: BIG ARC.004
+    4300010: BIG ARC.005
+    4300012: BIG ARC.006
+    4300014: BIG ARC.007
+    4300016: BIG ARC.008
+    4300018: BIG ARC.009
+    4300020: BIG ARC.010
+    4300022: BIG ARC.011
+    4300024: BIG ARC.012
+    4300026: BIG ARC.013
+    4300028: BIG ARC.014
+    4300030: BIG ARC.015
+    4300032: BIG ARC.016
+    4300034: BIG ARC.017
+    4300036: BIG ARC.018
+    4300038: BIG ARC.019
+    4300040: BIG ARC.020
+    4300042: BIG ARC.021
+    4300044: BIG ARC.022
+    4300046: BIG ARC.023
+    4300048: BIG ARC.024
+    4300050: BIG ARC.025
+    4300052: BIG ARC.026
+    4300054: BIG ARC.027
+    4300056: BIG ARC.028
+    4300058: BIG ARC.029
+    4300060: BIG ARC.030
+    4300062: BIG ARC.031
+    4300064: BIG ARC.032
+    4300066: BIG ARC.033
+    4300068: Cylinder.016
+    4300070: Cylinder.018
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

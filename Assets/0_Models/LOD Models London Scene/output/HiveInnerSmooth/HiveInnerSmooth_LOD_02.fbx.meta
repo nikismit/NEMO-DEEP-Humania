@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 2e9ee0ec5b322ef46ac38b5eed5dd32f
+timeCreated: 1491044213
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HiveInnerSmooth_LOD_02_001
+    100004: HiveInnerSmooth_LOD_02_002
+    100006: HiveInnerSmooth_LOD_02_003
+    100008: HiveInnerSmooth_LOD_02_004
+    100010: HiveInnerSmooth_LOD_02_005
+    100012: HiveInnerSmooth_LOD_02_006
+    100014: HiveInnerSmooth_LOD_02_007
+    100016: HiveInnerSmooth_LOD_02_008
+    100018: HiveInnerSmooth_LOD_02_009
+    100020: HiveInnerSmooth_LOD_02_010
+    100022: HiveInnerSmooth_LOD_02_011
+    100024: HiveInnerSmooth_LOD_02_012
+    100026: HiveInnerSmooth_LOD_02_013
+    100028: HiveInnerSmooth_LOD_02_014
+    100030: HiveInnerSmooth_LOD_02_015
+    100032: HiveInnerSmooth_LOD_02_016
+    400000: //RootNode
+    400002: HiveInnerSmooth_LOD_02_001
+    400004: HiveInnerSmooth_LOD_02_002
+    400006: HiveInnerSmooth_LOD_02_003
+    400008: HiveInnerSmooth_LOD_02_004
+    400010: HiveInnerSmooth_LOD_02_005
+    400012: HiveInnerSmooth_LOD_02_006
+    400014: HiveInnerSmooth_LOD_02_007
+    400016: HiveInnerSmooth_LOD_02_008
+    400018: HiveInnerSmooth_LOD_02_009
+    400020: HiveInnerSmooth_LOD_02_010
+    400022: HiveInnerSmooth_LOD_02_011
+    400024: HiveInnerSmooth_LOD_02_012
+    400026: HiveInnerSmooth_LOD_02_013
+    400028: HiveInnerSmooth_LOD_02_014
+    400030: HiveInnerSmooth_LOD_02_015
+    400032: HiveInnerSmooth_LOD_02_016
+    2300000: HiveInnerSmooth_LOD_02_001
+    2300002: HiveInnerSmooth_LOD_02_002
+    2300004: HiveInnerSmooth_LOD_02_003
+    2300006: HiveInnerSmooth_LOD_02_004
+    2300008: HiveInnerSmooth_LOD_02_005
+    2300010: HiveInnerSmooth_LOD_02_006
+    2300012: HiveInnerSmooth_LOD_02_007
+    2300014: HiveInnerSmooth_LOD_02_008
+    2300016: HiveInnerSmooth_LOD_02_009
+    2300018: HiveInnerSmooth_LOD_02_010
+    2300020: HiveInnerSmooth_LOD_02_011
+    2300022: HiveInnerSmooth_LOD_02_012
+    2300024: HiveInnerSmooth_LOD_02_013
+    2300026: HiveInnerSmooth_LOD_02_014
+    2300028: HiveInnerSmooth_LOD_02_015
+    2300030: HiveInnerSmooth_LOD_02_016
+    3300000: HiveInnerSmooth_LOD_02_001
+    3300002: HiveInnerSmooth_LOD_02_002
+    3300004: HiveInnerSmooth_LOD_02_003
+    3300006: HiveInnerSmooth_LOD_02_004
+    3300008: HiveInnerSmooth_LOD_02_005
+    3300010: HiveInnerSmooth_LOD_02_006
+    3300012: HiveInnerSmooth_LOD_02_007
+    3300014: HiveInnerSmooth_LOD_02_008
+    3300016: HiveInnerSmooth_LOD_02_009
+    3300018: HiveInnerSmooth_LOD_02_010
+    3300020: HiveInnerSmooth_LOD_02_011
+    3300022: HiveInnerSmooth_LOD_02_012
+    3300024: HiveInnerSmooth_LOD_02_013
+    3300026: HiveInnerSmooth_LOD_02_014
+    3300028: HiveInnerSmooth_LOD_02_015
+    3300030: HiveInnerSmooth_LOD_02_016
+    4300000: HiveInnerSmooth_LOD_02_001
+    4300002: HiveInnerSmooth_LOD_02_002
+    4300004: HiveInnerSmooth_LOD_02_003
+    4300006: HiveInnerSmooth_LOD_02_004
+    4300008: HiveInnerSmooth_LOD_02_005
+    4300010: HiveInnerSmooth_LOD_02_006
+    4300012: HiveInnerSmooth_LOD_02_007
+    4300014: HiveInnerSmooth_LOD_02_008
+    4300016: HiveInnerSmooth_LOD_02_009
+    4300018: HiveInnerSmooth_LOD_02_010
+    4300020: HiveInnerSmooth_LOD_02_011
+    4300022: HiveInnerSmooth_LOD_02_012
+    4300024: HiveInnerSmooth_LOD_02_013
+    4300026: HiveInnerSmooth_LOD_02_014
+    4300028: HiveInnerSmooth_LOD_02_015
+    4300030: HiveInnerSmooth_LOD_02_016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

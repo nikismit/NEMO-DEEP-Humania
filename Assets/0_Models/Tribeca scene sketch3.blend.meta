@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 6dbdc844b44ef3a4891f675825b6aadc
+timeCreated: 1458920015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arc_rough
+    100002: arc_rough_001
+    100004: arc_rough_002
+    100006: arc_rough_003
+    100008: BezierCurve_001
+    100010: BezierCurve_002
+    100012: Cube_004
+    100014: Cube_005
+    100016: Curly_sandfloor
+    100018: Cylinder_000
+    100020: Cylinder_003
+    100022: Cylinder_006
+    100024: Cylinder_009
+    100026: Cylinder_010
+    100028: Plane_001
+    100030: Plane_002
+    100032: Plane_003
+    100034: player_scale
+    100036: player_scale_001
+    100038: player_scale_002
+    100040: Sphere
+    100042: Sphere_001
+    100044: Sphere_002
+    100046: tree
+    100048: tree_001
+    100050: tree_002
+    100052: tree_003
+    100054: //RootNode
+    400000: arc_rough
+    400002: arc_rough_001
+    400004: arc_rough_002
+    400006: arc_rough_003
+    400008: BezierCurve_001
+    400010: BezierCurve_002
+    400012: Cube_004
+    400014: Cube_005
+    400016: Curly_sandfloor
+    400018: Cylinder_000
+    400020: Cylinder_003
+    400022: Cylinder_006
+    400024: Cylinder_009
+    400026: Cylinder_010
+    400028: Plane_001
+    400030: Plane_002
+    400032: Plane_003
+    400034: player_scale
+    400036: player_scale_001
+    400038: player_scale_002
+    400040: Sphere
+    400042: Sphere_001
+    400044: Sphere_002
+    400046: tree
+    400048: tree_001
+    400050: tree_002
+    400052: tree_003
+    400054: //RootNode
+    2300000: arc_rough
+    2300002: arc_rough_001
+    2300004: arc_rough_002
+    2300006: arc_rough_003
+    2300008: BezierCurve_001
+    2300010: BezierCurve_002
+    2300012: Cube_004
+    2300014: Cube_005
+    2300016: Curly_sandfloor
+    2300018: Cylinder_000
+    2300020: Cylinder_003
+    2300022: Cylinder_006
+    2300024: Cylinder_009
+    2300026: Cylinder_010
+    2300028: Plane_001
+    2300030: Plane_002
+    2300032: Plane_003
+    2300034: player_scale
+    2300036: player_scale_001
+    2300038: player_scale_002
+    2300040: Sphere
+    2300042: Sphere_001
+    2300044: Sphere_002
+    2300046: tree
+    2300048: tree_001
+    2300050: tree_002
+    2300052: tree_003
+    3300000: arc_rough
+    3300002: arc_rough_001
+    3300004: arc_rough_002
+    3300006: arc_rough_003
+    3300008: BezierCurve_001
+    3300010: BezierCurve_002
+    3300012: Cube_004
+    3300014: Cube_005
+    3300016: Curly_sandfloor
+    3300018: Cylinder_000
+    3300020: Cylinder_003
+    3300022: Cylinder_006
+    3300024: Cylinder_009
+    3300026: Cylinder_010
+    3300028: Plane_001
+    3300030: Plane_002
+    3300032: Plane_003
+    3300034: player_scale
+    3300036: player_scale_001
+    3300038: player_scale_002
+    3300040: Sphere
+    3300042: Sphere_001
+    3300044: Sphere_002
+    3300046: tree
+    3300048: tree_001
+    3300050: tree_002
+    3300052: tree_003
+    4300000: Sphere_002
+    4300002: Sphere_001
+    4300004: Sphere
+    4300006: player_scale_002
+    4300008: player_scale_001
+    4300010: tree_003
+    4300012: arc_rough_003
+    4300014: arc_rough_002
+    4300016: arc_rough_001
+    4300018: arc_rough
+    4300020: player_scale
+    4300022: tree_001
+    4300024: tree_002
+    4300026: Cylinder_010
+    4300028: Cylinder_009
+    4300030: BezierCurve_001
+    4300032: Cylinder_006
+    4300034: tree
+    4300036: Cube_005
+    4300038: Plane_003
+    4300040: Plane_002
+    4300042: Plane_001
+    4300044: Cube_004
+    4300046: Cylinder_000
+    4300048: Cylinder_003
+    4300050: BezierCurve_002
+    4300052: Curly_sandfloor
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

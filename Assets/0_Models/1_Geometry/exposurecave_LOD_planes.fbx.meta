@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 55d930f4872b9b942bf8f25510dc9f9c
+timeCreated: 1489573820
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: expcave plane.000
+    100002: expcave plane.001
+    100004: expcave plane.002
+    100006: expcave plane.003
+    100008: expcave plane.004
+    100010: expcave plane.005
+    100012: expcave plane.006
+    100014: expcave plane.007
+    100016: expcave skydome.008
+    100018: //RootNode
+    400000: expcave plane.000
+    400002: expcave plane.001
+    400004: expcave plane.002
+    400006: expcave plane.003
+    400008: expcave plane.004
+    400010: expcave plane.005
+    400012: expcave plane.006
+    400014: expcave plane.007
+    400016: expcave skydome.008
+    400018: //RootNode
+    2300000: expcave plane.000
+    2300002: expcave plane.001
+    2300004: expcave plane.002
+    2300006: expcave plane.003
+    2300008: expcave plane.004
+    2300010: expcave plane.005
+    2300012: expcave plane.006
+    2300014: expcave plane.007
+    2300016: expcave skydome.008
+    3300000: expcave plane.000
+    3300002: expcave plane.001
+    3300004: expcave plane.002
+    3300006: expcave plane.003
+    3300008: expcave plane.004
+    3300010: expcave plane.005
+    3300012: expcave plane.006
+    3300014: expcave plane.007
+    3300016: expcave skydome.008
+    4300000: expcave skydome.008
+    4300002: expcave plane.001
+    4300004: expcave plane.007
+    4300006: expcave plane.006
+    4300008: expcave plane.005
+    4300010: expcave plane.004
+    4300012: expcave plane.003
+    4300014: expcave plane.002
+    4300016: expcave plane.000
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
