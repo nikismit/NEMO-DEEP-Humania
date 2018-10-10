@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AS_ConceptionGlobe3
+  m_Shader: {fileID: 4800000, guid: c257ea33ad40ff94e85df48aee62cfd6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Brightnesscolorband: 0.18
+    - _Brightnesswobble: 0.04
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _Gradientamount: 1
+    - _Gradientamountwobble: 3
+    - _Mapping: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Speed1: 0
+    - _Speed2: 1.17
+    - _SrcBlend: 1
+    - _Tessellation: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _brightnesscolorband: 0.18
+    - _brightnesswobl: 0.04
+    - _gradientamount: 1
+    - _gradientamountwobl: 3
+    - _gradientloc: 0.2393162
+    - _node_1958: 0
+    - _node_2443: 1
+    - _node_5431: 0
+    - _node_7041: 1
+    - _node_778_copy: 1.36
+    - _node_9271: 1
+    - _speed: 0
+    - _speed_copy: 1.17
+    - _tesselation: 1
+    - _wolrdcoor: 0
+    m_Colors:
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _Color1: {r: 1, g: 0.50980395, b: 0.67058825, a: 1}
+    - _Color2: {r: 0.6392157, g: 0.38431376, b: 0.86666673, a: 1}
+    - _Color3: {r: 1, g: 1, b: 1, a: 1}
+    - _Color4: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _InnerColor: {r: 1, g: 0.484, b: 0.722, a: 1}
+    - _OuterColor: {r: 0.6307469, g: 0.25935337, b: 0.9044118, a: 1}
+    - _node_1468: {r: 0, g: 1, b: 0.08965516, a: 1}
+    - _node_2255: {r: 0.16176468, g: 0, b: 0.12383365, a: 1}
+    - _node_2255_copy: {r: 0, g: 0, b: 0, a: 1}
+    - _node_2739: {r: 0.16078432, g: 0, b: 0.1254902, a: 1}
+    - _node_2739_copy: {r: 1, g: 1, b: 1, a: 1}
+    - _node_3394: {r: 1, g: 0.05882353, b: 0.05882353, a: 1}
+    - _node_6600: {r: 1, g: 0, b: 0, a: 1}

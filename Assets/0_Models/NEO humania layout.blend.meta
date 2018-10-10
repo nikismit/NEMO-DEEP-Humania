@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 646f43dc2fc81834ca7b7ca89a3790f1
+timeCreated: 1539098176
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Curly_sandfloor
+    100012: //RootNode
+    100014: Plane
+    100016: rockpillar_01
+    100018: rockpillar_02
+    100020: rockpillar_02_001
+    100022: rockpillar_03
+    100024: rockpillar_04
+    100026: rockpillar_04_001
+    100028: rockpillar_04_002
+    100030: rockpillar_04_003
+    100032: rockpillar_04_004
+    100034: rockpillar_05
+    100036: rockwall_01
+    100038: rocky_ground_01
+    100040: rocky_ground_02
+    100042: rocky_ground_03
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Curly_sandfloor
+    400012: //RootNode
+    400014: Plane
+    400016: rockpillar_01
+    400018: rockpillar_02
+    400020: rockpillar_02_001
+    400022: rockpillar_03
+    400024: rockpillar_04
+    400026: rockpillar_04_001
+    400028: rockpillar_04_002
+    400030: rockpillar_04_003
+    400032: rockpillar_04_004
+    400034: rockpillar_05
+    400036: rockwall_01
+    400038: rocky_ground_01
+    400040: rocky_ground_02
+    400042: rocky_ground_03
+    2100000: unnamed
+    2100002: rocks_purple_000
+    2100004: sandy_floor_000
+    2100006: rocks_purple_001
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Curly_sandfloor
+    2300012: Plane
+    2300014: rockpillar_01
+    2300016: rockpillar_02
+    2300018: rockpillar_02_001
+    2300020: rockpillar_03
+    2300022: rockpillar_04
+    2300024: rockpillar_04_001
+    2300026: rockpillar_04_002
+    2300028: rockpillar_04_003
+    2300030: rockpillar_04_004
+    2300032: rockpillar_05
+    2300034: rockwall_01
+    2300036: rocky_ground_01
+    2300038: rocky_ground_02
+    2300040: rocky_ground_03
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Curly_sandfloor
+    3300012: Plane
+    3300014: rockpillar_01
+    3300016: rockpillar_02
+    3300018: rockpillar_02_001
+    3300020: rockpillar_03
+    3300022: rockpillar_04
+    3300024: rockpillar_04_001
+    3300026: rockpillar_04_002
+    3300028: rockpillar_04_003
+    3300030: rockpillar_04_004
+    3300032: rockpillar_05
+    3300034: rockwall_01
+    3300036: rocky_ground_01
+    3300038: rocky_ground_02
+    3300040: rocky_ground_03
+    4300000: Cube_004
+    4300002: Cube_003
+    4300004: Cube_001
+    4300006: Cube_002
+    4300008: rockpillar_04_004
+    4300010: rockpillar_04_003
+    4300012: rockpillar_04_002
+    4300014: rockpillar_04_001
+    4300016: rockpillar_02_001
+    4300018: Cube
+    4300020: Plane
+    4300022: Curly_sandfloor
+    4300024: rockpillar_01
+    4300026: rockpillar_02
+    4300028: rockpillar_03
+    4300030: rockpillar_04
+    4300032: rockpillar_05
+    4300034: rockwall_01
+    4300036: rocky_ground_01
+    4300038: rocky_ground_02
+    4300040: rocky_ground_03
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
